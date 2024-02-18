@@ -1,4 +1,4 @@
-# wKaya Vuln
+# wKaya Vuln [Developpement Version v1.0]
 
 
 FREE VERSION COMING | 
@@ -10,7 +10,7 @@ Telegram : https://t.me/wnKaya
 ![alt text](https://gcdnb.pbrd.co/images/IboBisHE9yFQ.png?o=1)
 🚀 KayaVuln
 
-AIO Tool who check list of domains/ips to found data and use it.
+AIO Tool who check list of domains/ips to found data and use it. [Private API & searcher CVE coming ]
 
 📝 Requirements : 
 VPS
