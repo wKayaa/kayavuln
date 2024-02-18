@@ -1,6 +1,11 @@
 # wKaya Vuln
+
+FREE VERSION COMING
+CONTACT ME FOR GET DEMO VERSION !
 ![alt text](https://gcdnb.pbrd.co/images/IboBisHE9yFQ.png?o=1)
 🚀 KayaVuln
+
+AIO Tool who check list of domains/ips to found data and use it.
 
 📝 Requirements : 
 VPS
