@@ -1,4 +1,4 @@
-# wKaya Vuln [Developpement Version v1.0]
+# wKaya Vuln [Developement version v1.0]
 
 
 FREE VERSION COMING | 
