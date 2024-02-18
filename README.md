@@ -1,9 +1,12 @@
 # wKaya Vuln
 
-FREE VERSION COMING
-CONTACT ME FOR GET DEMO VERSION !
 
-Telegram : https://t.me/Chiraqq_x
+FREE VERSION COMING | 
+CONTACT ME FOR GET FULL VERSION ! [DEMO AVAILABLE]
+
+Telegram : https://t.me/wnKaya
+
+
 ![alt text](https://gcdnb.pbrd.co/images/IboBisHE9yFQ.png?o=1)
 🚀 KayaVuln
 
