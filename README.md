@@ -2,6 +2,9 @@
 
 FREE VERSION COMING
 CONTACT ME FOR GET DEMO VERSION !
+
+Discord : k.wesolo
+Telegram : https://t.me/Chiraqq_x
 ![alt text](https://gcdnb.pbrd.co/images/IboBisHE9yFQ.png?o=1)
 🚀 KayaVuln
 
